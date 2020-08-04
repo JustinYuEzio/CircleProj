@@ -12,10 +12,14 @@ The user can login with his/her username and password, and can find all posts ar
 ## Display and Functionality
 
 ### Login/Register
+Login page
 <p align="center">
-  <img src="images/login.png" width="500"/>
+  <img src="images/login.png" width="700"/>
 </p>
-
+Register page
+<p align="center">
+  <img src="images/register.png" width="700"/>
+</p>
 
 ### Image/Video Posts
 
