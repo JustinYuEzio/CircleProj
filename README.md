@@ -36,10 +36,35 @@ Image posts
   <img src="images/image.png" width="700"/>
 </p>
 
+Video posts
+<p align="center">
+  <img src="images/video.png" width="700"/>
+</p>
+
 ### Map
 
+Users can view posts on map. The red one indicates a image posts and a blue one indicate a video post.
+User can click on marker and view the posts.
 
-### Storage
+<p align="center">
+  <img src="images/map1.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="images/map2.png" width="700"/>
+</p>
+
+### Create Posts
+
+<p align="center">
+  <img src="images/createPost.png" width="700"/>
+</p>
+
+### Check posts with face in them
+
+<p align="center">
+  <img src="images/face1.png" width="700"/>
+</p>
 
 ## Backend
 
