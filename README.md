@@ -2,6 +2,7 @@
 
 ## Introduction
 https://prod.d3omump6xs0uly.amplifyapp.com
+
 This project is a webpage that allows users to share and explore posts from nearby positions. Users can upload posts with pictures and videos. The project is deployed on **AWS** and **GCE**.
 
 The front-end is written using **react** and the back-end is written using **go**
