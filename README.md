@@ -31,7 +31,7 @@ If the password and username pass validation, the check box will automatically t
 
 ### Image/Video Posts
 
-Iamge posts
+Image posts
 <p align="center">
   <img src="images/image.png" width="700"/>
 </p>
