@@ -28,7 +28,13 @@ If the password and username pass validation, the check box will automatically t
 <p align="center">
   <img src="images/fail.png" width="700"/>
 </p>
+
 ### Image/Video Posts
+
+Iamge posts
+<p align="center">
+  <img src="images/image.png" width="700"/>
+</p>
 
 ### Map
 
