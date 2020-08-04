@@ -50,9 +50,6 @@ User can click on marker and view the posts.
   <img src="images/map1.png" width="700"/>
 </p>
 
-<p align="center">
-  <img src="images/map2.png" width="700"/>
-</p>
 
 ### Create Posts
 
@@ -64,6 +61,11 @@ User can click on marker and view the posts.
 
 <p align="center">
   <img src="images/face1.png" width="700"/>
+</p>
+
+
+<p align="center">
+  <img src="images/map2.png" width="700"/>
 </p>
 
 ## Backend
