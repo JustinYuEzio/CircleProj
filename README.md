@@ -20,7 +20,14 @@ Register page
 <p align="center">
   <img src="images/register.png" width="700"/>
 </p>
+If the password and username pass validation, the check box will automatically turn green, otherwise will indicate something is wrong
+<p align="center">
+  <img src="images/success.png" width="700"/>
+</p>
 
+<p align="center">
+  <img src="images/fail.png" width="700"/>
+</p>
 ### Image/Video Posts
 
 ### Map
